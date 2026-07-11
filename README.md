@@ -1,3 +1,0 @@
-# Organizer 
-
-Made by Amit
